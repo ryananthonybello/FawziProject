@@ -1,0 +1,323 @@
+pub_og_id	og_name	level_taxid	organism_taxid	organism_name	int_prot_id	pub_gene_id	description\
+275685at7742	TAR DNA binding protein	7742	7868_0	Callorhinchus milii	7868_0:001ccd	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	7897_0	Latimeria chalumnae	7897_0:001538	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	7918_0	Lepisosteus oculatus	7918_0:004225	W5MHW9_LEPOC	TAR DNA binding protein, like\
+275685at7742	TAR DNA binding protein	7742	7950_0	Clupea harengus	7950_0:002d92	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	7950_0	Clupea harengus	7950_0:003725	LOC105901871	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	7955_0	Danio rerio	7955_0:001bc6	tardbp	TAR DNA-binding protein\
+275685at7742	TAR DNA binding protein	7742	7955_0	Danio rerio	7955_0:005cfc	tardbpl	TAR DNA-binding protein,-like\
+275685at7742	TAR DNA binding protein	7742	7955_0	Danio rerio	7955_0:006fa7	tardbpl	TAR DNA-binding protein,-like\
+275685at7742	TAR DNA binding protein	7742	7962_0	Cyprinus carpio	7962_0:006cd7	LOC109056374	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	7962_0	Cyprinus carpio	7962_0:0078cb	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	7994_0	Astyanax mexicanus	7994_0:002123	W5LC76_ASTMX	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	7994_0	Astyanax mexicanus	7994_0:002829	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	7998_0	Ictalurus punctatus	7998_0:00265e	LOC108271795	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	7998_0	Ictalurus punctatus	7998_0:0033ad	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8010_0	Esox lucius	8010_0:0029a7	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8010_0	Esox lucius	8010_0:005a03	LOC105025427	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	8019_0	Oncorhynchus kisutch	8019_0:000404	LOC109898680	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	8019_0	Oncorhynchus kisutch	8019_0:0013d9	LOC109890877	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	8019_0	Oncorhynchus kisutch	8019_0:00437e	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8019_0	Oncorhynchus kisutch	8019_0:00832c	LOC109883937	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	8022_0	Oncorhynchus mykiss	8022_0:002d75	A0A060X1B2_ONCMY	A0A060X1B2_ONCMY\
+275685at7742	TAR DNA binding protein	7742	8022_0	Oncorhynchus mykiss	8022_0:003527	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8022_0	Oncorhynchus mykiss	8022_0:006229	LOC110491896	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	8022_0	Oncorhynchus mykiss	8022_0:006af7	LOC110494662	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	8030_0	Salmo salar	8030_0:0052a7	TADBP	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	8030_0	Salmo salar	8030_0:005804	TADBP	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	8030_0	Salmo salar	8030_0:006620	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8030_0	Salmo salar	8030_0:008cdf	TADBP	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	8036_0	Salvelinus alpinus	8036_0:00029e	LOC111970140	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8036_0	Salvelinus alpinus	8036_0:001d1e	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8036_0	Salvelinus alpinus	8036_0:002780	LOC111969781	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8036_0	Salvelinus alpinus	8036_0:0039d8	LOC111976373	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8078_0	Fundulus heteroclitus	8078_0:004584	A0A146ZW90_FUNHE	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8078_0	Fundulus heteroclitus	8078_0:0045b9	A0A146NPB5_FUNHE	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8081_0	Poecilia reticulata	8081_0:0013d5	LOC103464518	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	8081_0	Poecilia reticulata	8081_0:001cff	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8083_0	Xiphophorus maculatus	8083_0:000010	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8083_0	Xiphophorus maculatus	8083_0:004d27	TARDBP (1 of many)	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	8090_0	Oryzias latipes	8090_0:0010e6	LOC101167948	Centromere protein S\
+275685at7742	TAR DNA binding protein	7742	8090_0	Oryzias latipes	8090_0:0019cb	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8128_0	Oreochromis niloticus	8128_0:00165b	LOC100704166	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8128_0	Oreochromis niloticus	8128_0:005de7	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8153_0	Haplochromis burtoni	8153_0:000532	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8153_0	Haplochromis burtoni	8153_0:001fe5	LOC102309107	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	8187_0	Lates calcarifer	8187_0:003e95	LOC108899245	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	8187_0	Lates calcarifer	8187_0:005549	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8208_0	Notothenia coriiceps	8208_0:0033d8	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8208_0	Notothenia coriiceps	8208_0:003ade	LOC104956354	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	8255_0	Paralichthys olivaceus	8255_0:001ee3	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8255_0	Paralichthys olivaceus	8255_0:0038ad	LOC109638570	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	8355_0	Xenopus laevis	8355_0:0051a1	A0A1L8FKV7_XENLA;tardbp	A0A1L8FKV7_XENLA\
+275685at7742	TAR DNA binding protein	7742	8355_0	Xenopus laevis	8355_0:00525d	A0A1L8FFB1_XENLA	A0A1L8FFB1_XENLA\
+275685at7742	TAR DNA binding protein	7742	8364_0	Xenopus tropicalis	8364_0:0032b8	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8469_0	Chelonia mydas	8469_0:000426	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8478_0	Chrysemys picta bellii	8478_0:000bfd	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8496_0	Alligator mississippiensis	8496_0:0028d8	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8502_0	Crocodylus porosus	8502_0:001dde	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	441894_0	Struthio camelus	441894_0:0014d1	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8839_0	Anas platyrhynchos	8839_0:001f2b	TARDBP	LOW QUALITY PROTEIN: TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	381198_0	Anser cygnoides	381198_0:001ed0	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	8897_0	Chaetura pelagica	8897_0:00315c	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8932_0	Columba livia	8932_0:003759	TARDBP	LOW QUALITY PROTEIN: TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8954_0	Falco peregrinus	8954_0:0003aa	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	216574_0	Aquila chrysaetos	216574_0:001f02	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8969_0	Haliaeetus albicilla	8969_0:00343b	A0A091PTN9_HALAL	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	8996_0	Numida meleagris	8996_0:002fea	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9031_0	Gallus gallus	9031_0:0036db	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9103_0	Meleagris gallopavo	9103_0:0036b2	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	9135_0	Serinus canaria	9135_0:00299d	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9157_0	Parus major	9157_0:002ec6	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9172_0	Sturnus vulgaris	9172_0:003522	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9209_0	Phalacrocorax carbo	9209_0:003642	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9233_0	Aptenodytes forsteri	9233_0:000661	A0A087QL47_APTFO	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9238_0	Pygoscelis adeliae	9238_0:001e47	A0A093NUQ6_PYGAD	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9244_0	Calypte anna	9244_0:00364e	A0A091IJI6_CALAN	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9258_0	Ornithorhynchus anatinus	9258_0:002288	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	9305_0	Sarcophilus harrisii	9305_0:002694	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	9361_0	Dasypus novemcinctus	9361_0:0050b2	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9365_0	Erinaceus europaeus	9365_0:0041e3	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9371_0	Echinops telfairi	9371_0:001db4	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	9402_0	Pteropus alecto	9402_0:0020d0	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9407_0	Rousettus aegyptiacus	9407_0:001f1f	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9483_0	Callithrix jacchus	9483_0:001ef7	TARDBP	TARDBP\
+275685at7742	TAR DNA binding protein	7742	9531_0	Cercocebus atys	9531_0:00424f	TARDBP	LOW QUALITY PROTEIN: TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9541_0	Macaca fascicularis	9541_0:00066c	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	9544_0	Macaca mulatta	9544_0:000126	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9545_0	Macaca nemestrina	9545_0:003c38	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	9555_0	Papio anubis	9555_0:000085	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	9568_0	Mandrillus leucophaeus	9568_0:0036c4	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	9595_0	Gorilla gorilla gorilla	9595_0:0006bf	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9595_0	Gorilla gorilla gorilla	9595_0:000bae	LOC101136944	uncharacterized protein LOC101136944 isoform X1\
+275685at7742	TAR DNA binding protein	7742	9597_0	Pan paniscus	9597_0:0006e1	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9598_0	Pan troglodytes	9598_0:0006d1	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	9601_0	Pongo abelii	9601_0:00037e	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9606_0	Homo sapiens	9606_0:000827	TARDBP	TAR DNA binding protein, isoform CRA_b\
+275685at7742	TAR DNA binding protein	7742	9615_0	Canis lupus familiaris	9615_0:00050c	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	9646_0	Ailuropoda melanoleuca	9646_0:002821	LOC100466671	LOC100466671\
+275685at7742	TAR DNA binding protein	7742	9668_0	Mustela putorius	9668_0:0005a9	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9685_0	Felis catus	9685_0:002532	TARDBP	TARDBP\
+275685at7742	TAR DNA binding protein	7742	9691_0	Panthera pardus	9691_0:001fb5	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	74533_0	Panthera tigris	74533_0:000f22	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	62698_0	Odobenus rosmarus divergens	62698_0:003809	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	9713_0	Leptonychotes weddellii	9713_0:00198e	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	9733_0	Orcinus orca	9733_0:001dab	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9739_0	Tursiops truncatus	9739_0:001348	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9749_0	Delphinapterus leucas	9749_0:002f99	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9755_0	Physeter catodon	9755_0:001f86	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	310752_0	Balaenoptera acutorostrata	310752_0:000ca0	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	127582_0	Trichechus manatus	127582_0:0035b1	LOC101342618	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9785_0	Loxodonta africana	9785_0:0025a5	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	9793_0	Equus asinus	9793_0:001f8a	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9796_0	Equus caballus	9796_0:000a38	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	9798_0	Equus przewalskii	9798_0:001834	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	73337_0	Ceratotherium simum	73337_0:001706	LOC101390310	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	1230840_0	Orycteropus afer	1230840_0:001e1e	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9823_0	Sus scrofa	9823_0:001f02	TARDBP	TARDBP\
+275685at7742	TAR DNA binding protein	7742	9837_0	Camelus bactrianus	9837_0:002461	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9838_0	Camelus dromedarius	9838_0:00082e	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9874_0	Odocoileus virginianus	9874_0:000047	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	43346_0	Bison bison	43346_0:002e0a	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9913_0	Bos taurus	9913_0:002f23	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	9915_0	Bos indicus	9915_0:002de7	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9925_0	Capra hircus	9925_0:002cf9	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	9938_0	Ovis aries musimon	9938_0:00036d	TARDBP	TAR DNA-binding protein 43 isoform X2\
+275685at7742	TAR DNA binding protein	7742	9938_0	Ovis aries musimon	9938_0:0044de	LOC101120470	LOW QUALITY PROTEIN: TAR DNA-binding protein 43-like isoform X2\
+275685at7742	TAR DNA binding protein	7742	9940_0	Ovis aries	9940_0:000b1c	LOC101120470	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	9940_0	Ovis aries	9940_0:002c96	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	9974_0	Manis javanica	9974_0:00175f	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9978_0	Ochotona princeps	9978_0:003b81	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	9986_0	Oryctolagus cuniculus	9986_0:004ea0	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	9994_0	Marmota marmota marmota	9994_0:003ed2	Tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	10020_0	Dipodomys ordii	10020_0:0006d9	Tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	10029_0	Cricetulus griseus	10029_0:003aba	Tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	10036_0	Mesocricetus auratus	10036_0:00301e	Tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	10047_0	Meriones unguiculatus	10047_0:0011ca	Tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	10089_0	Mus caroli	10089_0:0012fd	Tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	10090_0	Mus musculus	10090_0:00137e	Tardbp	MCG16669, isoform CRA_b\
+275685at7742	TAR DNA binding protein	7742	10093_0	Mus pahari	10093_0:001bd9	Tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	10116_0	Rattus norvegicus	10116_0:0023ed	Tardbp	RCG31562, isoform CRA_c\
+275685at7742	TAR DNA binding protein	7742	10141_0	Cavia porcellus	10141_0:002aa6	Tardbp	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	10160_0	Octodon degus	10160_0:00337a	Tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	10181_0	Heterocephalus glaber	10181_0:0037e6	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	13146_0	Melopsittacus undulatus	13146_0:001009	LOC101870989	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	13616_0	Monodelphis domestica	13616_0:002fc9	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	13735_0	Pelodiscus sinensis	13735_0:002bbb	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	28737_0	Elephantulus edwardii	28737_0:004a7c	LOC102860777	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	28743_0	Cyprinodon variegatus	28743_0:001a6e	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	28743_0	Cyprinodon variegatus	28743_0:0022d6	LOC107089340	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	29073_0	Ursus maritimus	29073_0:002038	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	29078_0	Eptesicus fuscus	29078_0:002bdd	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	29088_0	Neomonachus schauinslandi	29088_0:001723	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	30419_0	Opisthocomus hoazin	30419_0:000365	A0A091VBI4_OPIHO	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	30455_0	Fulmarus glacialis	30455_0:000103	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	30521_0	Bos grunniens	30521_0:002dbc	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	30538_0	Vicugna pacos	30538_0:000205	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	30608_0	Microcebus murinus	30608_0:00076b	TARDBP	LOW QUALITY PROTEIN: TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	30611_0	Otolemur garnettii	30611_0:002872	TARDBP	TAR DNA-binding protein 43 isoform X2\
+275685at7742	TAR DNA binding protein	7742	30732_0	Oryzias melastigma	30732_0:0010d7	LOC112145330	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	30732_0	Oryzias melastigma	30732_0:003bc9	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	31033_0	Takifugu rubripes	31033_0:0008ce	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	31033_0	Takifugu rubripes	31033_0:0033ea	LOC101062123	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	32507_0	Neolamprologus brichardi	32507_0:000984	LOC102797500	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	32507_0	Neolamprologus brichardi	32507_0:000ead	LOC102798597	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	32536_0	Acinonyx jubatus	32536_0:003b63	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	34839_0	Chinchilla lanigera	34839_0:003a35	Tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	34882_0	Enhydra lutris	34882_0:002f32	LOC111154646	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	34882_0	Enhydra lutris	34882_0:002f70	LOC111154719	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	35019_0	Thamnophis sirtalis	35019_0:002c3c	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	36300_0	Pelecanus crispus	36300_0:0025b8	A0A091SUU3_9AVES	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	37003_0	Kryptolebias marmoratus	37003_0:000df7	LOC108231372	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	37003_0	Kryptolebias marmoratus	37003_0:001ff8	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	37040_0	Gavia stellata	37040_0:00209f	A0A093FJ08_GAVST	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	37293_0	Aotus nancymaae	37293_0:0009ba	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	38626_0	Phascolarctos cinereus	38626_0:0006e3	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	38654_0	Alligator sinensis	38654_0:0004b3	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	39432_0	Saimiri boliviensis boliviensis	39432_0:003092	TARDBP	TARDBP\
+275685at7742	TAR DNA binding protein	7742	299123_0	Lonchura striata	299123_0:000f6f	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	41447_0	Seriola dumerili	41447_0:001354	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	41447_0	Seriola dumerili	41447_0:001ed6	LOC111222865	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	42254_0	Sorex araneus	42254_0:001785	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	42514_0	Pygocentrus nattereri	42514_0:00049f	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	42514_0	Pygocentrus nattereri	42514_0:00181d	LOC108427558	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	43179_0	Ictidomys tridecemlineatus	43179_0:0005ff	LOC101959054	LOC101959054\
+275685at7742	TAR DNA binding protein	7742	43179_0	Ictidomys tridecemlineatus	43179_0:002188	LOC101959054	LOW QUALITY PROTEIN: TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	43700_0	Monopterus albus	43700_0:0005ec	tardbp	LOW QUALITY PROTEIN: TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	43700_0	Monopterus albus	43700_0:0016ae	LOC109959029	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	44394_0	Zonotrichia albicollis	44394_0:0028cc	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	48698_0	Poecilia formosa	48698_0:000215	LOC103137072	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	48698_0	Poecilia formosa	48698_0:001b4f	TARDBP (1 of many)	TAR DNA binding protein, like\
+275685at7742	TAR DNA binding protein	7742	48698_0	Poecilia formosa	48698_0:001b87	TARDBP (1 of many)	TAR DNA binding protein, like\
+275685at7742	TAR DNA binding protein	7742	48699_0	Poecilia latipinna	48699_0:004cd0	LOC106936586	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	48699_0	Poecilia latipinna	48699_0:0059ba	LOC106941185	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	48699_0	Poecilia latipinna	48699_0:005dc0	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	48701_0	Poecilia mexicana	48701_0:0010ec	LOC106916315	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	48701_0	Poecilia mexicana	48701_0:003d10	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	48883_0	Geospiza fortis	48883_0:0028ad	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	50402_0	Charadrius vociferus	50402_0:002aec	A0A0A0ASR7_CHAVO	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	51337_0	Jaculus jaculus	51337_0:001902	Tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	51338_0	Castor canadensis	51338_0:00223e	Tardbp	LOW QUALITY PROTEIN: TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	51338_0	Castor canadensis	51338_0:0025c7	LOC109690879	LOW QUALITY PROTEIN: TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	52644_0	Haliaeetus leucocephalus	52644_0:002b1b	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	52670_0	Austrofundulus limnaeus	52670_0:001383	LOC106516120	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	52670_0	Austrofundulus limnaeus	52670_0:003819	LOC106527602	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	52670_0	Austrofundulus limnaeus	52670_0:004cb7	LOC106534252	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	54374_0	Mesitornis unicolor	54374_0:001b7b	A0A091S1L8_9GRUI	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	54380_0	Cariama cristata	54380_0:000d36	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	54383_0	Eurypyga helias	54383_0:000f45	TARDBP	LOW QUALITY PROTEIN: TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	55661_0	Cuculus canorus	55661_0:002180	A0A091GT35_9AVES	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	56313_0	Tyto alba	56313_0:001584	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	56723_0	Labrus bergylta	56723_0:000a6e	LOC109980573	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	56723_0	Labrus bergylta	56723_0:00121b	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	57068_0	Acanthisitta chloris	57068_0:0028cd	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	57397_0	Apaloderma vittatum	57397_0:00162e	A0A091NBD8_APAVI	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	57412_0	Colius striatus	57412_0:0005b0	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	57421_0	Merops nubicus	57421_0:002e74	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	59463_0	Myotis lucifugus	59463_0:003a3e	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	59538_0	Pantholops hodgsonii	59538_0:00059f	LOC102333143	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	59538_0	Pantholops hodgsonii	59538_0:002a33	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	59729_0	Taeniopygia guttata	59729_0:002e38	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	59894_0	Ficedula albicollis	59894_0:002e22	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	59894_0	Ficedula albicollis	59894_0:003a5a	LOC101821501	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	60711_0	Chlorocebus sabaeus	60711_0:003cfb	A0A0D9S8N2_CHLSB	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	61621_0	Rhinopithecus bieti	61621_0:002721	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	61622_0	Rhinopithecus roxellana	61622_0:004647	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	61853_0	Nomascus leucogenys	61853_0:004915	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	74940_0	Oncorhynchus tshawytscha	74940_0:0006f4	LOC112220826	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	74940_0	Oncorhynchus tshawytscha	74940_0:002228	LOC112254284	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	74940_0	Oncorhynchus tshawytscha	74940_0:0022dc	LOC112254245	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	74940_0	Oncorhynchus tshawytscha	74940_0:004d08	LOC112216050	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	74940_0	Oncorhynchus tshawytscha	74940_0:007be0	LOC112232611	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	74940_0	Oncorhynchus tshawytscha	74940_0:009172	LOC112240771	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	74940_0	Oncorhynchus tshawytscha	74940_0:00a2f6	LOC112247071	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	75366_0	Sinocyclocheilus grahami	75366_0:000e6b	LOC107570713	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	75366_0	Sinocyclocheilus grahami	75366_0:0020ee	LOC107586522	TAR DNA-binding protein 43-like isoform X2\
+275685at7742	TAR DNA binding protein	7742	75366_0	Sinocyclocheilus grahami	75366_0:006acc	LOC107555974	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	75366_0	Sinocyclocheilus grahami	75366_0:0079ea	LOC107561006	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	79684_0	Microtus ochrogaster	79684_0:001cc4	Tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	80966_0	Acanthochromis polyacanthus	80966_0:0004b8	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	80966_0	Acanthochromis polyacanthus	80966_0:0032c8	LOC110960639	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	80972_0	Amphiprion ocellaris	80972_0:00219d	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	80972_0	Amphiprion ocellaris	80972_0:003684	LOC111579909	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	85066_0	Corvus brachyrhynchos	85066_0:0033c6	A0A091F3Q1_CORBR	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	89399_0	Rhinolophus sinicus	89399_0:00279c	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	89462_0	Bubalus bubalis	89462_0:004c2a	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	93934_0	Coturnix japonica	93934_0:0030a4	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	94827_0	Tinamus guttatus	94827_0:0018d0	A0A099Z7N2_TINGU	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	94835_0	Gavialis gangeticus	94835_0:001a82	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	97097_0	Phaethon lepturus	97097_0:000d15	A0A091UAI6_PHALP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	100784_0	Balearica regulorum gibbericeps	100784_0:003879	A0A087VRH3_BALRE	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	103944_0	Protobothrops mucrosquamatus	103944_0:003870	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	105023_0	Nothobranchius furzeri	105023_0:002a15	LOC107385215	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	105023_0	Nothobranchius furzeri	105023_0:003da2	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	106582_0	Maylandia zebra	106582_0:003a9f	LOC101487819	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	106582_0	Maylandia zebra	106582_0:005213	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	109280_0	Hippocampus comes	109280_0:000732	LOC109507104	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	109280_0	Hippocampus comes	109280_0:0033d4	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	109478_0	Myotis brandtii	109478_0:002cbf	S7PUI0_MYOBR	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	113540_0	Scleropages formosus	113540_0:00106e	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	113540_0	Scleropages formosus	113540_0:00504c	LOC108918549	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	118200_0	Picoides pubescens	118200_0:002dcc	A0A093GYU3_DRYPU	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	118797_0	Lipotes vexillifer	118797_0:003154	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	121530_0	Tauraco erythrolophus	121530_0:00000c	TARDBP	LOW QUALITY PROTEIN: TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	125878_0	Nanorana parkeri	125878_0:001aec	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	128390_0	Nipponia nippon	128390_0:000d2c	A0A091VW23_NIPNI	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	132908_0	Pteropus vampyrus	132908_0:001989	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	143302_0	Condylura cristata	143302_0:000f44	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	144197_0	Stegastes partitus	144197_0:000478	LOC103362703	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	144197_0	Stegastes partitus	144197_0:001a7c	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	146911_0	Gekko japonicus	146911_0:004872	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	150288_0	Boleophthalmus pectinirostris	150288_0:00318b	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	150288_0	Boleophthalmus pectinirostris	150288_0:003e58	LOC110168628	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	156563_0	Cyanistes caeruleus	156563_0:002b6b	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	175836_0	Buceros rhinoceros silvestris	175836_0:001b48	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	176057_0	Nestor notabilis	176057_0:0016c2	TARDBP	LOW QUALITY PROTEIN: TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	176946_0	Python bivittatus	176946_0:0000c3	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	181119_0	Pseudopodoces humilis	181119_0:002e3f	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	185453_0	Chrysochloris asiatica	185453_0:00272c	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	186990_0	Hipposideros armiger	186990_0:000d6e	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	187382_0	Chlamydotis macqueenii	187382_0:0005b2	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	188344_0	Leptosomus discolor	188344_0:001e83	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	188379_0	Egretta garzetta	188379_0:00335b	A0A091JMM7_EGRGA	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	198806_0	Calidris pugnax	198806_0:001121	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	202946_0	Apteryx australis mantelli	202946_0:000a8b	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	215358_0	Larimichthys crocea	215358_0:00582f	A0A0F8ATQ7_LARCR	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	215358_0	Larimichthys crocea	215358_0:0058f4	A0A0F8ATQ7_LARCR	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	225400_0	Myotis davidii	225400_0:0026ea	L5LPT2_MYODS	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	230844_0	Peromyscus maniculatus bairdii	230844_0:000e41	Tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	240206_0	Pterocles gutturalis	240206_0:003132	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	244447_0	Cynoglossus semilaevis	244447_0:002586	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	244447_0	Cynoglossus semilaevis	244447_0:002928	LOC103385642	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	246437_0	Tupaia chinensis	246437_0:000d78	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	259920_0	Rhincodon typus	259920_0:0011e3	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	279965_0	Antrostomus carolinensis	279965_0:000b9f	A0A094K9Y2_ANTCR	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	291302_0	Miniopterus natalensis	291302_0:0037e6	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	1841481_0	Seriola lalandi	1841481_0:001a94	LOC111653824	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	1841481_0	Seriola lalandi	1841481_0:004e73	tardbp	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	303518_0	Pundamilia nyererei	303518_0:000c93	LOC102194201	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	303518_0	Pundamilia nyererei	303518_0:001fa0	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	307959_0	Sinocyclocheilus rhinocerous	307959_0:005c25	LOC107708745	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	307959_0	Sinocyclocheilus rhinocerous	307959_0:005c63	LOC107708842	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	307959_0	Sinocyclocheilus rhinocerous	307959_0:0069f3	LOC107713527	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	307959_0	Sinocyclocheilus rhinocerous	307959_0:007199	LOC107716231	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	321398_0	Lepidothrix coronata	321398_0:00239f	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	328815_0	Manacus vitellinus	328815_0:002676	TARDBP	TAR DNA-binding protein 43 isoform X1\
+275685at7742	TAR DNA binding protein	7742	336983_0	Colobus angolensis palliatus	336983_0:000d10	TARDBP	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	345164_0	Falco cherrug	345164_0:001376	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	379532_0	Propithecus coquereli	379532_0:0044c9	A0A2K6F5Z5_PROCO	TAR DNA binding protein\
+275685at7742	TAR DNA binding protein	7742	419612_0	Camelus ferus	419612_0:001907	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	482537_0	Galeopterus variegatus	482537_0:00335d	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	591936_0	Piliocolobus tephrosceles	591936_0:00413a	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	885580_0	Fukomys damarensis	885580_0:001a9f	A0A091DKG3_FUKDA	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	932674_0	Corvus cornix cornix	932674_0:002d9f	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	1026970_0	Nannospalax galili	1026970_0:0001f7	Tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	1415176_0	Terrapene mexicana triunguis	1415176_0:002fba	TARDBP	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	1608454_0	Sinocyclocheilus anshuiensis	1608454_0:0033f7	LOC107695779	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	1608454_0	Sinocyclocheilus anshuiensis	1608454_0:0077ce	LOC107666995	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	1608454_0	Sinocyclocheilus anshuiensis	1608454_0:009f24	LOC107680706	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	1608454_0	Sinocyclocheilus anshuiensis	1608454_0:00a2d3	LOC107681961	TAR DNA-binding protein 43-like isoform X1\
+275685at7742	TAR DNA binding protein	7742	1676925_0	Paramormyrops kingsleyae	1676925_0:003168	LOC111857063	TAR DNA-binding protein 43-like\
+275685at7742	TAR DNA binding protein	7742	1676925_0	Paramormyrops kingsleyae	1676925_0:0042b7	tardbp	TAR DNA-binding protein 43\
+275685at7742	TAR DNA binding protein	7742	1737458_0	Cebus capucinus imitator	1737458_0:000598	A0A2K5QKI0_CEBCA	A0A2K5QKI0_CEBCA\
+275685at7742	TAR DNA binding protein	7742	1868482_0	Carlito syrichta	1868482_0:001010	TARDBP	TAR DNA-binding protein 43 isoform X1}

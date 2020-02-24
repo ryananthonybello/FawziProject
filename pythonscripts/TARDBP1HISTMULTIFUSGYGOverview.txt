@@ -1,0 +1,129 @@
+set tmargin 30
+set bmargin 0
+set lmargin 10
+set rmargin 40
+unset xtics
+unset ytics
+unset xlabel
+unset grid
+set yrange [0:4]
+set ytics scale 0
+set grid x y
+set xtics 1
+set format x " "
+unset y2tics
+unset y2label
+
+
+set multiplot layout 3,1
+set key autotitle columnhead outside
+unset title
+set style fill solid 1.00
+set style histogram rowstacked
+set style data histograms
+set style fill pattern
+
+
+unset xlabel
+unset xtics
+unset grid
+unset ytics
+unset ylabel
+unset y2label
+unset y2tics
+unset y2range
+unset yrange
+set grid x y
+set xtics 1
+set format x " "
+set tmargin 0
+set y2range [0:0.0002]
+set y2tics scale 0
+set yrange [0:0.0002]
+# dont know why we have to set the y range just so we can get the data to fit the y2range tics....
+set grid y2
+set y2label "gnomAD Variant Frequency" font "Helvetica,12" offset 3,0,0
+do for [i=2:9] {
+    set style line i linecolor rgb "black"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=10:17] {
+    set style line i linecolor rgb "red"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=18:23] {
+    set style line i linecolor rgb "blue"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+plot for [i=2:23] 'FUSgnomADv2NonNeuroGYG.txt' using i ls i
+
+
+unset xlabel
+unset xtics
+unset grid
+unset ytics
+unset ylabel
+unset y2tics
+unset y2range
+unset yrange
+unset y2label
+set grid x y
+set xtics 1
+set format x " "
+set tmargin 0
+set yrange [0:60]
+set ytics scale 0
+set yrange [0:60]
+# dont know why we have to set the y range just so we can get the data to fit the y2range tics....
+set grid y2
+set ylabel "Orthologue Variants" font "Helvetica,12"
+do for [i=2:9] {
+    set style line i linecolor rgb "black"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=10:17] {
+    set style line i linecolor rgb "red"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=18:23] {
+    set style line i linecolor rgb "blue"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+plot for [i=2:23] 'csvforGNUmammalFUSFULLGYG.dat' using i ls i
+
+
+
+unset y2tics
+unset y2label
+unset ylabel
+unset yrange
+unset ytics
+unset grid
+unset xtics
+unset xlabel
+set grid y2
+set y2range [0:4]
+set yrange [0:4]
+set y2tics scale 0
+set xlabel "[S/G/X]Y[S/G/X] Motifs in FUS LC Domain" font "Helvetica,12"
+set bmargin 6
+set y2label "Reported Mutations" font "Helvetica,12"
+set xtics rotate 90 autojustify nomirror
+set grid x
+# set bmargin at screen 0.1
+do for [i=2:9] {
+    set style line i linecolor rgb "black"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=10:17] {
+    set style line i linecolor rgb "red"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=18:23] {
+    set style line i linecolor rgb "blue"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+plot for [i=2:23] 'csvforGNUFUSmutGYG.txt' using i:xtic(1) ls i
+
+
+unset multiplot

@@ -1,0 +1,159 @@
+pub_og_id	og_name	level_taxid	organism_taxid	organism_name	int_prot_id	pub_gene_id	description
+394456at7742	RNA-binding protein FUS isoform X1	7742	7897_0	Latimeria chalumnae	7897_0:003571	FUS	FUS RNA binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	7955_0	Danio rerio	7955_0:000c7b	fus	FUS RNA-binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	7962_0	Cyprinus carpio	7962_0:009d58	LOC109075460	RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	7994_0	Astyanax mexicanus	7994_0:0002d2	W5KQF2_ASTMX	FUS RNA binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	7998_0	Ictalurus punctatus	7998_0:0004ab	fus	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	8355_0	Xenopus laevis	8355_0:007219	MGC84691	MGC84691 protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	8355_0	Xenopus laevis	8355_0:0077a0	fus	Fus protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	8364_0	Xenopus tropicalis	8364_0:003e06	fus	FUS RNA-binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	8469_0	Chelonia mydas	8469_0:004071	LOC102933986	RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	8478_0	Chrysemys picta bellii	8478_0:003bba	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	8496_0	Alligator mississippiensis	8496_0:0031f8	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	8839_0	Anas platyrhynchos	8839_0:0035c6	LOC101802896	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	381198_0	Anser cygnoides	381198_0:0038c9	LOC106029462	RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	8954_0	Falco peregrinus	8954_0:00125e	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	8996_0	Numida meleagris	8996_0:003de0	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	9031_0	Gallus gallus	9031_0:004537	Q6J4Y8_CHICK	FUS/TLS
+394456at7742	RNA-binding protein FUS isoform X1	7742	9172_0	Sturnus vulgaris	9172_0:003899	LOC106863771	RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	9258_0	Ornithorhynchus anatinus	9258_0:003e00	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	9305_0	Sarcophilus harrisii	9305_0:001967	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9361_0	Dasypus novemcinctus	9361_0:004937	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9365_0	Erinaceus europaeus	9365_0:0030c8	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9371_0	Echinops telfairi	9371_0:002017	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	9402_0	Pteropus alecto	9402_0:00206c	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9407_0	Rousettus aegyptiacus	9407_0:004adc	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9483_0	Callithrix jacchus	9483_0:00340e	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	9531_0	Cercocebus atys	9531_0:0003e5	FUS	FUS RNA binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	9541_0	Macaca fascicularis	9541_0:00496e	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9544_0	Macaca mulatta	9544_0:004af9	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9545_0	Macaca nemestrina	9545_0:004f5d	FUS	FUS RNA binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	9555_0	Papio anubis	9555_0:004b8f	FUS	FUS RNA binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	9568_0	Mandrillus leucophaeus	9568_0:001da4	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9595_0	Gorilla gorilla gorilla	9595_0:003d86	FUS	FUS RNA binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	9597_0	Pan paniscus	9597_0:003a03	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9598_0	Pan troglodytes	9598_0:003ee4	FUS	FUS isoform 1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9601_0	Pongo abelii	9601_0:003bcf	A0A2J8TKS3_PONAB	FUS isoform 1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9606_0	Homo sapiens	9606_0:003ec1	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	9615_0	Canis lupus familiaris	9615_0:0010fb	FUS	FUS RNA binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	9646_0	Ailuropoda melanoleuca	9646_0:003051	FUS	LOW QUALITY PROTEIN: RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	9668_0	Mustela putorius	9668_0:003bdb	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9685_0	Felis catus	9685_0:0044ec	FUS	FUS RNA binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	9691_0	Panthera pardus	9691_0:00494c	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	74533_0	Panthera tigris	74533_0:00354a	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	62698_0	Odobenus rosmarus divergens	62698_0:001042	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9713_0	Leptonychotes weddellii	9713_0:000884	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9733_0	Orcinus orca	9733_0:0012a9	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9739_0	Tursiops truncatus	9739_0:003f55	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	9749_0	Delphinapterus leucas	9749_0:002252	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9755_0	Physeter catodon	9755_0:00181a	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	310752_0	Balaenoptera acutorostrata	310752_0:003045	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	127582_0	Trichechus manatus	127582_0:003ae8	LOC101357666	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9785_0	Loxodonta africana	9785_0:003bf1	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9793_0	Equus asinus	9793_0:001264	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9796_0	Equus caballus	9796_0:002fa6	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9798_0	Equus przewalskii	9798_0:000a62	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9798_0	Equus przewalskii	9798_0:000fec	LOC103549245	LOW QUALITY PROTEIN: RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	73337_0	Ceratotherium simum	73337_0:003f32	LOC101406235	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	1230840_0	Orycteropus afer	1230840_0:003223	FUS	LOW QUALITY PROTEIN: RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	9823_0	Sus scrofa	9823_0:00102f	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	9837_0	Camelus bactrianus	9837_0:004731	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9838_0	Camelus dromedarius	9838_0:001851	LOC105089742	LOW QUALITY PROTEIN: RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	9874_0	Odocoileus virginianus	9874_0:00128f	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	43346_0	Bison bison	43346_0:00146f	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9913_0	Bos taurus	9913_0:004684	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	9915_0	Bos indicus	9915_0:0044e7	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9925_0	Capra hircus	9925_0:004462	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9938_0	Ovis aries musimon	9938_0:004460	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9940_0	Ovis aries	9940_0:0046b7	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9974_0	Manis javanica	9974_0:0025f4	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9978_0	Ochotona princeps	9978_0:001fd8	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	9986_0	Oryctolagus cuniculus	9986_0:003e71	FUS	RNA-binding protein FUS isoform X4
+394456at7742	RNA-binding protein FUS isoform X1	7742	9994_0	Marmota marmota marmota	9994_0:002710	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	10020_0	Dipodomys ordii	10020_0:000efb	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	10029_0	Cricetulus griseus	10029_0:003c6a	A0A061I8T7_CRIGR	RNA-binding protein FUS-like protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	10036_0	Mesocricetus auratus	10036_0:0001f1	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	10047_0	Meriones unguiculatus	10047_0:004212	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	10089_0	Mus caroli	10089_0:001f96	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	10090_0	Mus musculus	10090_0:0022b4	Fus;Q3USY4_MOUSE	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	10093_0	Mus pahari	10093_0:000203	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	10116_0	Rattus norvegicus	10116_0:000589	Fus	FUS RNA-binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	10141_0	Cavia porcellus	10141_0:0045d0	Fus	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	10160_0	Octodon degus	10160_0:0000e3	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	10181_0	Heterocephalus glaber	10181_0:002967	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	13616_0	Monodelphis domestica	13616_0:003c09	FUS	FUS RNA binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	13735_0	Pelodiscus sinensis	13735_0:0001a7	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	28377_0	Anolis carolinensis	28377_0:0027c6	FUS	FUS RNA binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	28737_0	Elephantulus edwardii	28737_0:0038b2	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	29073_0	Ursus maritimus	29073_0:0009bc	FUS	LOW QUALITY PROTEIN: RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	29078_0	Eptesicus fuscus	29078_0:002e9d	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	29088_0	Neomonachus schauinslandi	29088_0:003de2	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	30521_0	Bos grunniens	30521_0:000136	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	30538_0	Vicugna pacos	30538_0:000f35	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	30608_0	Microcebus murinus	30608_0:003869	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	30611_0	Otolemur garnettii	30611_0:00312b	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	32536_0	Acinonyx jubatus	32536_0:002be9	FUS	LOW QUALITY PROTEIN: RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	34839_0	Chinchilla lanigera	34839_0:003b9f	LOC106146725	RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	34839_0	Chinchilla lanigera	34839_0:003bc5	LOC102003148	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	34882_0	Enhydra lutris	34882_0:0045a2	LOC111162225	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	35019_0	Thamnophis sirtalis	35019_0:000b8d	LOC106538129	uncharacterized protein LOC106538129
+394456at7742	RNA-binding protein FUS isoform X1	7742	37293_0	Aotus nancymaae	37293_0:002e0a	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	38626_0	Phascolarctos cinereus	38626_0:003080	FUS	LOW QUALITY PROTEIN: RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	38654_0	Alligator sinensis	38654_0:00456e	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	39432_0	Saimiri boliviensis boliviensis	39432_0:001f4d	FUS	FUS RNA binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	42254_0	Sorex araneus	42254_0:00339c	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	42514_0	Pygocentrus nattereri	42514_0:00172a	fus	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	43179_0	Ictidomys tridecemlineatus	43179_0:001691	Fus	LOW QUALITY PROTEIN: RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	43179_0	Ictidomys tridecemlineatus	43179_0:0043dd	LOC101971282	LOW QUALITY PROTEIN: RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	51337_0	Jaculus jaculus	51337_0:004304	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	51338_0	Castor canadensis	51338_0:00017a	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	52644_0	Haliaeetus leucocephalus	52644_0:00240f	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	54380_0	Cariama cristata	54380_0:0005e4	LOC104168223	RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	59463_0	Myotis lucifugus	59463_0:004118	FUS	RNA-binding protein FUS isoform X3
+394456at7742	RNA-binding protein FUS isoform X1	7742	59538_0	Pantholops hodgsonii	59538_0:00134c	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	60711_0	Chlorocebus sabaeus	60711_0:000e9b	FUS	FUS RNA binding protein
+394456at7742	RNA-binding protein FUS isoform X1	7742	61621_0	Rhinopithecus bieti	61621_0:00002c	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	61622_0	Rhinopithecus roxellana	61622_0:000dad	FUS	RNA-binding protein FUS isoform X3
+394456at7742	RNA-binding protein FUS isoform X1	7742	61853_0	Nomascus leucogenys	61853_0:0004bc	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	75366_0	Sinocyclocheilus grahami	75366_0:001636	fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	75366_0	Sinocyclocheilus grahami	75366_0:006559	LOC107554122	RNA-binding protein FUS-like isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	79684_0	Microtus ochrogaster	79684_0:00185c	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	89399_0	Rhinolophus sinicus	89399_0:0042a7	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	89462_0	Bubalus bubalis	89462_0:003ffa	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	103695_0	Pogona vitticeps	103695_0:0033fe	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	103944_0	Protobothrops mucrosquamatus	103944_0:00345b	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	103944_0	Protobothrops mucrosquamatus	103944_0:003aed	LOC107296285	RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	109478_0	Myotis brandtii	109478_0:00425b	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	113540_0	Scleropages formosus	113540_0:004ba2	fus	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	118797_0	Lipotes vexillifer	118797_0:001458	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	125878_0	Nanorana parkeri	125878_0:004028	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	132908_0	Pteropus vampyrus	132908_0:0038a5	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	143302_0	Condylura cristata	143302_0:0037b3	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	143302_0	Condylura cristata	143302_0:00454a	LOC105854673	RNA-binding protein FUS-like isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	146911_0	Gekko japonicus	146911_0:003a2c	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	176946_0	Python bivittatus	176946_0:002fb9	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	181119_0	Pseudopodoces humilis	181119_0:003b76	FUS	LOW QUALITY PROTEIN: RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	185453_0	Chrysochloris asiatica	185453_0:003886	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	186990_0	Hipposideros armiger	186990_0:003eac	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	198806_0	Calidris pugnax	198806_0:00380f	LOC106900021	RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	198806_0	Calidris pugnax	198806_0:003811	LOC106900020	RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	225400_0	Myotis davidii	225400_0:003b94	FUS	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	230844_0	Peromyscus maniculatus bairdii	230844_0:001367	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	246437_0	Tupaia chinensis	246437_0:001521	FUS	RNA-binding protein FUS isoform X4
+394456at7742	RNA-binding protein FUS isoform X1	7742	259920_0	Rhincodon typus	259920_0:001c42	LOC109916974	RNA-binding protein FUS-like isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	291302_0	Miniopterus natalensis	291302_0:003767	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	307959_0	Sinocyclocheilus rhinocerous	307959_0:001438	LOC107737761	RNA-binding protein FUS-like isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	307959_0	Sinocyclocheilus rhinocerous	307959_0:0098ad	LOC107729526	RNA-binding protein FUS-like isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	336983_0	Colobus angolensis palliatus	336983_0:0008c1	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	379532_0	Propithecus coquereli	379532_0:003f78	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	419612_0	Camelus ferus	419612_0:001e14	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	482537_0	Galeopterus variegatus	482537_0:000757	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	591936_0	Piliocolobus tephrosceles	591936_0:003fd8	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	885580_0	Fukomys damarensis	885580_0:00092f	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	1026970_0	Nannospalax galili	1026970_0:004ae7	Fus	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	1415176_0	Terrapene mexicana triunguis	1415176_0:001713	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	1608454_0	Sinocyclocheilus anshuiensis	1608454_0:00229e	LOC107689689	RNA-binding protein FUS-like
+394456at7742	RNA-binding protein FUS isoform X1	7742	1608454_0	Sinocyclocheilus anshuiensis	1608454_0:005eff	LOC107658502	RNA-binding protein FUS-like isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	1676925_0	Paramormyrops kingsleyae	1676925_0:004a78	fus	RNA-binding protein FUS
+394456at7742	RNA-binding protein FUS isoform X1	7742	1737458_0	Cebus capucinus imitator	1737458_0:0047e8	FUS	RNA-binding protein FUS isoform X1
+394456at7742	RNA-binding protein FUS isoform X1	7742	1868482_0	Carlito syrichta	1868482_0:002d5e	FUS	RNA-binding protein FUS isoform X2

@@ -1,0 +1,163 @@
+#set key outside autotitle columnhead
+#set grid y
+#set style data histograms
+#set style histogram rowstacked
+#set boxwidth 0.5
+#set style fill solid 1.0 border -1
+#set ytics 10
+#set yrange [0:5]
+#set ylabel "Sequence Diff from Reference"
+#set ytics 10
+#set title "Mammalian Sequence Polymorphisms for TARDBP CTD"
+
+#plot 'TARDBPMAMIDP.dat' using 2:xtic(1), for [i=3:22] '' using i
+
+
+set tmargin 2
+set bmargin 0
+set lmargin 10
+set rmargin 30
+unset xlabel
+unset xtics
+unset grid
+unset ytics
+unset ylabel
+unset y2tics
+unset y2range
+unset yrange
+unset y2label
+set y2range [0:50]
+set yrange [0:125]
+set y2tics scale 0
+set ytics scale 0
+set xtics 1
+set format x " "
+set grid x
+
+
+
+set multiplot layout 4,1
+set key autotitle columnhead outside
+unset title
+set y2label " Vert Conservation Averages" font "Helvetica,12"
+set style line 1\
+  linetype 1 linewidth 30\
+  pointtype 2 pointsize 1.5
+plot for [i=5:6] 'conserv_tracker_tdpvert.txt' every ::364::413 using i with lines axis x1y2, \
+  'conserv_tracker_tdpvert.txt' every ::364::413 using 7 with lines axis x1y1
+
+#linecolor rgb "red"
+
+
+
+unset xlabel
+unset xtics
+unset grid
+unset ytics
+unset ylabel
+unset y2tics
+unset y2range
+unset yrange
+unset y2label
+set style fill solid 1.00
+set style histogram rowstacked
+set style data histograms
+set style fill pattern
+set grid x y
+set xtics 1
+set format x " "
+set tmargin 0
+set yrange [0:170]
+set ytics scale 0
+# dont know why we have to set the y range just so we can get the data to fit the y2range tics....
+set grid y2
+set ylabel "Vertebrate Pairwise" font "Helvetica,12"
+do for [i=2:9] {
+    set style line i linecolor rgb "black"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=10:17] {
+    set style line i linecolor rgb "red"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=18:23] {
+    set style line i linecolor rgb "blue"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+plot for [i=2:22] 'csvforGNUtdpvert.txt' every ::364::413 using i ls i
+
+
+
+
+unset xlabel
+unset xtics
+unset grid
+unset ytics
+unset ylabel
+unset y2tics
+unset y2range
+unset yrange
+unset y2label
+set y2range [0:4]
+set yrange [0:6]
+set y2tics scale 0
+set ytics scale 0
+set xtics 1
+set format x " "
+set grid x
+set y2label "Mammal Conservation Averages" font "Helvetica,12"
+set style line 1\
+  linetype 1 linewidth 30\
+  pointtype 2 pointsize 1.5
+plot for [i=5:6] 'conserv_tracker_tdpmammal.txt' using i every ::364::413 with lines axis x1y2, \
+  'conserv_tracker_tdpmammal.txt' using 7 every ::364::413 with lines axis x1y1
+#linecolor rgb "red"
+
+
+
+
+
+
+
+
+
+unset xlabel
+unset xtics
+unset grid
+unset ytics
+unset ylabel
+unset y2tics
+unset y2range
+unset yrange
+unset y2label
+set style fill solid 1.00
+set style histogram rowstacked
+set style data histograms
+set style fill pattern
+set grid y2
+set y2range [0:10]
+set yrange [0:10]
+set ytics scale 0
+set xlabel "TDP CTD Conservation Comparison" font "Helvetica,12"
+set bmargin 6
+set ylabel "Mammal Pairwise" font "Helvetica,12"
+set xtics rotate 90 autojustify nomirror
+set grid x y
+# set bmargin at screen 0.1
+do for [i=2:9] {
+    set style line i linecolor rgb "black"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=10:17] {
+    set style line i linecolor rgb "red"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=18:22] {
+    set style line i linecolor rgb "blue"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+plot for [i=2:22] 'csvforGNUtdpmammal.txt' every ::364::413 using i:xtic(1) ls i
+
+
+
+unset multiplot

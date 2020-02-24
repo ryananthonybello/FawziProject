@@ -1,0 +1,118 @@
+#set key outside autotitle columnhead
+#set grid y
+#set style data histograms
+#set style histogram rowstacked
+#set boxwidth 0.5
+#set style fill solid 1.0 border -1
+#set ytics 10
+#set yrange [0:5]
+#set ylabel "Sequence Diff from Reference"
+#set ytics 10
+#set title "Mammalian Sequence Polymorphisms for TARDBP CTD"
+
+#plot 'TARDBPMAMIDP.dat' using 2:xtic(1), for [i=3:22] '' using i
+
+
+set tmargin 2
+set bmargin 0
+set lmargin 10
+set rmargin 30
+unset xtics
+unset ytics
+unset xlabel
+unset grid
+unset y2tics
+unset y2label
+set y2range [0:8]
+set yrange [0:8]
+set y2tics scale 0
+set xtics 1
+set format x " "
+
+
+
+set multiplot layout 3,1
+set key autotitle columnhead outside
+unset title
+set y2label "Conservation Averages" font "Helvetica,12"
+set style line 1\
+  linetype 1 linewidth 30\
+  pointtype 2 pointsize 1.5
+plot for [i=5:7] 'conserv_tracker_fusvert.txt' every ::401::500 using i with lines
+#linecolor rgb "red"
+
+
+
+unset xlabel
+unset xtics
+unset grid
+unset ytics
+unset ylabel
+unset y2tics
+unset y2range
+unset yrange
+unset y2label
+set style fill solid 1.00
+set style histogram rowstacked
+set style data histograms
+set style fill pattern
+set grid x y
+set xtics 1
+set format x " "
+set tmargin 0
+set yrange [0:40]
+set ytics scale 0
+set yrange [0:40]
+# dont know why we have to set the y range just so we can get the data to fit the y2range tics....
+set grid y2
+set ylabel "Pairwise Polymorphisms" font "Helvetica,12"
+do for [i=2:9] {
+    set style line i linecolor rgb "black"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=10:17] {
+    set style line i linecolor rgb "red"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=18:23] {
+    set style line i linecolor rgb "blue"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+plot for [i=2:22] 'csvforGNUvertFUS.txt' every ::501::527 using i ls i
+
+
+
+unset y2tics
+unset y2label
+unset ylabel
+unset yrange
+unset ytics
+unset grid
+unset xtics
+unset xlabel
+set grid y2
+set y2range [0:3]
+set yrange [0:3]
+set y2tics scale 0
+set xlabel "VERTEBRATE FUS" font "Helvetica,12"
+set bmargin 6
+set y2label "MUTATIONS" font "Helvetica,12"
+set xtics rotate 90 autojustify nomirror
+set grid x
+# set bmargin at screen 0.1
+do for [i=2:9] {
+    set style line i linecolor rgb "black"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=10:17] {
+    set style line i linecolor rgb "red"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+do for [i=18:22] {
+    set style line i linecolor rgb "blue"
+    # hsv2rgb(0.03*(i-1), 1, 1)
+}
+plot for [i=2:22] 'fusmutationsfull.dat' every ::401::500 using i:xtic(1) ls i
+
+
+unset multiplot
